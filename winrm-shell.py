@@ -1,4 +1,4 @@
-#!venv/bin/python
+#!env/bin/python
 
 import argparse
 import winrm
