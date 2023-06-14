@@ -5,6 +5,7 @@ Interactive Shell for WinRM from a Linux machine
 
 ```bash
 pip install -r requirements.txt
+sudo ln -s $(pwd)/winrm-shell.py /usr/bin/winrm
 ```
 
 ## Usage
